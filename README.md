@@ -1,7 +1,7 @@
 
 ---
 ## Education
-- 2016\-2020 &nbsp; **Bachelor of Engineering,** * &nbsp; Shandong Normal University, &nbsp; Jinan, &nbsp; China *
+- 2016\-2020 &nbsp; **Bachelor of Engineering,**  &nbsp; Shandong Normal University, &nbsp; Jinan, &nbsp; China
 
 ---
 ## Research Interests

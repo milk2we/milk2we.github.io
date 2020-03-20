@@ -27,8 +27,8 @@ CSCC: Convolution Split Compression Calculation Algorithm for Deep Neural Networ
 ---
 ## Personal Laboratory
 
-- [Code Reading Room](https://milk2we.github.io/blog/CodeReading.md)
-- [Best papers Reading Room](https://milk2we.github.io/blog/reading.md)
-- [General Databases](https://milk2we.github.io/blog/gd.md)
+- [Code Reading Room](https://milk2we.github.io/blog/CodeReading)
+- [Best papers Reading Room](https://milk2we.github.io/blog/reading)
+- [General Databases](https://milk2we.github.io/blog/gd)
 
 

@@ -1,16 +1,15 @@
 
 ---
-## Education
-- 2016\-2020 &nbsp; **Bachelor of Engineering,**  &nbsp; Shandong Normal University, &nbsp; Jinan, &nbsp; China
+##Education
+- 2016\-2020 &nbsp; **Bachelor of Engineering,** &nbsp; Shandong Normal University, Jinan, China
 
 ---
-## Research Interests
+##Research Interests
 - Convolution Neural Network Acceleration
 - Graph Neural Network Application
-
 ---
 
-## Publications
+##Publications
 
 - Shengyu Fan, Hui Yu, Dianjie Lu, Shuai Jiao, Weizhi Xu, Fangai Liu, Zhiyong Liu:
 CSCC: Convolution Split Compression Calculation Algorithm for Deep Neural Network. IEEE Access 7: 71607-71615 (2019) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723509)
@@ -18,15 +17,18 @@ CSCC: Convolution Split Compression Calculation Algorithm for Deep Neural Networ
 
 
 ---
-## Tools
-- Latest papers in arxiv:    
-[CS.LG_en](https://milk2we.github.io/update/lg_en.html) &nbsp;[CS.LG_zh](https://milk2we.github.io/update/lg_zh.html)   
-[CS.DC_en](https://milk2we.github.io/update/dc_en.html) &nbsp;[CS.DC_zh](https://milk2we.github.io/update/dc_zh.html)
+##Tools
+- Latest papers in arxiv:   
+[CS.CL_en](https://milk2we.github.io/update/cl_en.html) &nbsp;[CS.CL_zh](https://milk2we.github.io/update/cl_zh.html)  
+[CS.LG_en](https://milk2we.github.io/update/lg_en.html) &nbsp;[CS.LG_zh](https://milk2we.github.io/update/lg_zh.html)    
+[CS.DC_en](https://milk2we.github.io/update/dc_en.html) &nbsp;[CS.DC_zh](https://milk2we.github.io/update/dc_zh.html) 
+
 
 ---
 ## Personal Laboratory
 
-- [Best papers reading room](https://milk2we.github.io/blog/reading.md)
-- [General databases](https://milk2we.github.io/blog/gd.md)
+- [Code Reading Room](https://milk2we.github.io/blog/CodeReading.md)
+- [Best papers Reading Room](https://milk2we.github.io/blog/reading.md)
+- [General Databases](https://milk2we.github.io/blog/gd.md)
 
 
